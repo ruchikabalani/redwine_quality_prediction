@@ -7,5 +7,3 @@ The intended audience for this project includes winemakers, wine experts, and wi
 The predictions of this project can help identify the right price for the right quality of wine. In addition, the results can also help stakeholders devise appropriate marketing plans according to the quality of wines. 
 Using prediction models, we can also develop rules to estimate the quality of wine and ultimately improve the wine-making process. Whether this analysis is a one-time event, or a continuous effort depends on the goals of the stakeholders. If the objective is to make better wine, ongoing analysis may be necessary.
 
-
-# redwine_quality_prediction
